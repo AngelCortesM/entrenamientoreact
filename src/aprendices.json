@@ -1,0 +1,72 @@
+[
+    {
+        "nombre": "Drake Gonzales",
+        "genero": "masculino",
+        "foto": "1.webp"
+    },
+    {
+        "nombre": "Brad Pitt",
+        "genero": "masculino",
+        "foto": "2.jpeg"
+    },
+    {
+        "nombre": "Keanu Reeves",
+        "genero": "masculino",
+        "foto": "3.jpg"
+    },
+    {
+        "nombre": "Germán Garmendia",
+        "genero": "masculino",
+        "foto": "4.avif"
+    },
+    {
+        "nombre": "Henry Cavill",
+        "genero": "masculino",
+        "foto": "5.jpg"
+    },
+    {
+        "nombre": "Lucifer Morningstar",
+        "genero": "masculino",
+        "foto": "6.jpg"
+    },
+    {
+        "nombre": "Khabib Nurmagomedov",
+        "genero": "masculino",
+        "foto": "7.jpg"
+    },
+    {
+        "nombre": "Dwayne Johnson",
+        "genero": "masculino",
+        "foto": "8.webp"
+    },
+    {
+        "nombre": "Lucifer Morningstar",
+        "genero": "masculino",
+        "foto": "6.jpg"
+    },
+    {
+        "nombre": "Khabib Nurmagomedov",
+        "genero": "masculino",
+        "foto": "7.jpg"
+    },
+    {
+        "nombre": "Dwayne Johnson",
+        "genero": "masculino",
+        "foto": "8.webp"
+    },
+    {
+        "nombre": "Lucifer Morningstar",
+        "genero": "masculino",
+        "foto": "6.jpg"
+    },
+    {
+        "nombre": "Khabib Nurmagomedov",
+        "genero": "masculino",
+        "foto": "7.jpg"
+    },
+    {
+        "nombre": "Dwayne Johnson",
+        "genero": "masculino",
+        "foto": "8.webp"
+    }
+]

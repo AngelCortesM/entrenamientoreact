@@ -1,0 +1,29 @@
+.titulo {
+    color: rgb(43, 43, 43);
+    text-align: center;
+}
+
+.carta {
+    list-style: none;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.genero {
+    font-size: 18px;
+    color: #4d0533;
+}
+
+.estiloimagen {
+    border-radius: 10px;
+    background-color: white;
+
+
+}
+
+@media (max-width: 560px) {
+    .carta {
+        width: 90%;
+        height: auto;
+    }
+}
